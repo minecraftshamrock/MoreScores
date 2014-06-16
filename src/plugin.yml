@@ -2,6 +2,7 @@ name: MoreScores
 version: 1.0
 description: Display XP Level, Food Level and so on in your scoreboard!
 author: Daniel Holmes aka MinecraftShamrock
+website: http://dev.bukkit.org/bukkit-plugins/morescores/
 
 main: me.minecraftshamrock.morescores.MoreScores
 
