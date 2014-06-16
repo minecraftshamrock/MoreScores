@@ -1,0 +1,17 @@
+name: MoreScores
+version: 1.0
+description: Display XP Level, Food Level and so on in your scoreboard!
+author: Daniel Holmes aka MinecraftShamrock
+
+main: me.minecraftshamrock.morescores.MoreScores
+
+commands:
+   morescores:
+      description: This compact command gives access to all features of MoreScores.
+      permission: morescores.*
+      usage: /<command> <add|remove> <name> [type]
+
+permissions:
+   morescores.*:
+      description: Gives access to all MoreScores features.
+      default: op
